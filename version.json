@@ -1,0 +1,6 @@
+{
+  "version": "4.1.0",
+  "download_url": "",
+  "changelog": "1. 瞬時按鍵觸發時間過短 (0ms 觸發問題)\n2. 按鍵名稱大小寫與格式未齊一化 (Normalization)",
+  "mandatory": false
+}
