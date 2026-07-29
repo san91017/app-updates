@@ -1,6 +1,6 @@
 {
-  "version": "4.2.0",
-  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.2.0/AdvancedKeyMacro_v4.2.0.exe",
-  "changelog": "1. 支持線上更新檢查",
+  "version": "4.2.1",
+  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.2.1/AdvancedKeyMacro_v4.2.1.exe",
+  "changelog": "1. 測試自動更新功能",
   "mandatory": false
 }
