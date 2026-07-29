@@ -1,6 +1,6 @@
 {
-  "version": "4.1.0",
-  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.1.0/AdvancedKeyMacro_v4.1.0.exe",
-  "changelog": "1. 瞬時按鍵觸發時間過短 (0ms 觸發問題)\n2. 按鍵名稱大小寫與格式未齊一化 (Normalization)",
+  "version": "4.2.0",
+  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.2.0/AdvancedKeyMacro_v4.2.0.exe",
+  "changelog": "1. 支持線上更新檢查",
   "mandatory": false
 }
