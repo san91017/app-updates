@@ -1,6 +1,6 @@
 {
-  "version": "4.2.3",
-  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.2.3/AdvancedKeyMacro_v4.2.3.exe",
-  "changelog": "1. CV 防護功能修正",
-  "mandatory": false
+  "version": "4.3.0",
+  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.3.0/AdvancedKeyMacro_v4.3.0.exe",
+  "changelog": "1. 防護偵測範圍選擇優化\n2. 修復 Tab 4 無打印內容問題",
+  "mandatory": true
 }
