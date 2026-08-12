@@ -1,6 +1,6 @@
 {
-  "version": "4.2.2",
-  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.2.2/AdvancedKeyMacro_v4.2.2.exe",
-  "changelog": "1. 測試自動更新功能",
+  "version": "4.2.3",
+  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.2.3/AdvancedKeyMacro_v4.2.3.exe",
+  "changelog": "1. CV 防護功能修正",
   "mandatory": false
 }
