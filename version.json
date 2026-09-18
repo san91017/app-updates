@@ -1,6 +1,6 @@
 {
-  "version": "4.3.0",
-  "download_url": "https://github.com/san91017/app-updates/releases/download/v4.3.0/AdvancedKeyMacro_v4.3.0.exe",
-  "changelog": "1. 防護偵測範圍選擇優化\n2. 修復 Tab 4 無打印內容問題",
+  "version": "5.0.0",
+  "download_url": "https://github.com/san91017/app-updates/releases/download/v5.0.0/AdvancedKeyMacro_v5.0.0.exe",
+  "changelog": "1. 新增 Gemini ai 檢測測謊氣泡",
   "mandatory": true
 }
